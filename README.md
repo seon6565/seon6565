@@ -7,25 +7,3 @@
 | **Tool** |  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-000000?style=for-the-badge&logo=slack&logoColor=white"> |
 |||
 <br/>
-
-## 라이브러리 및 프레임워크
-
-|||
-|---|---|
-| library or framework | version |
-| jstl | 1.2 |
-| junit | 5.9.2 |
-| spring | 5.3.24 |
-| mybatis |3.5.14 |
-| lombok |1.18.32 |
-| log4j | 2.23.1|
-| HikariCP | 5.1.0|
-| mariadb | 3.3.3|
-| hibernate | 6.2.5.Final |
-| modelmapper |3.0.0 |
-| commons-fileupload |1.5 |
-| commons-io | 2.12.0|
-| aspectjrt | 1.9.4|
-| aspectjweaver | 1.9.4|
-| cglib | 3.3.0|
-| jackson-databind |2.12.3 |
